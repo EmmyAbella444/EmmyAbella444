@@ -1,8 +1,8 @@
 
 ![221352975-94759904-aa4c-4032-a8ab-b546efb9c478](https://github.com/user-attachments/assets/4094fbb2-55e8-41c3-9149-082798542736)
 
-<h1 align="center"> I'm Emmy Abella</h1>
-<h3 align="center">Welcome to my GitHub portfolio! I'm Emmy Abella, a computer science student passionate about solving real-world problems through technology. Here, you'll find a collection of my most exciting and impactful projects, where I explore areas ranging from social impact through technology to environmental conservation. Feel free to explore, learn more about my work, and contact me if you'd like to collaborate</h3>
+<h1 align="center"> Welcome to my GitHub portfolio</h1>
+<h3 align="center">! I'm Emmy Abella, a computer science student at Vanderbilt University! I am passionate about solving real-world problems through technology. Here, you'll find a collection of my most exciting and impactful projects, where I explore areas ranging from problem-solving through technology to environmental conservation. Feel free to explore, learn more about my work, and contact me if you'd like to collaborate</h3>
 
 - 🔭 I’m currently working on [https://github.com/EmmyAbella444/Projects](https://github.com/EmmyAbella444/Projects)
 
