@@ -5,7 +5,7 @@
 
   # Hi, I'm Emmy Abella 👋
 
-  **Computer Science & Mathematics student at Vanderbilt University**  
+  **Computer Science &  Applied Mathematics student at Vanderbilt University**  
   Interested in software engineering, machine learning, AI, and cybersecurity.
 
   [Email](mailto:emmyabellas@gmail.com)
@@ -24,6 +24,6 @@ I love building technology that can make a meaningful difference in people's liv
 
 ## Tech
 
-**Python • Java • C++ • JavaScript • React • FastAPI • Flask • SQL • HTML/CSS • Git**
+**Python • Java • C •  C++ • JavaScript • React • FastAPI • Flask • SQL • HTML/CSS • Git**
 
 ---
