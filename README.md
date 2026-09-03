@@ -15,7 +15,7 @@
 
 I love building technology that can make a meaningful difference in people's lives. I enjoy turning ideas into useful, accessible products and learning new ways to solve problems through software. Having lived and studied across Brazil, Japan, and the United States, I bring a global perspective to the technology I build.
 
-## Selected projects
+## Projects
 
 - **Entry Point** — An award-winning cybersecurity platform built with React and FastAPI to make online-safety resources accessible in 15 languages.
 - **Peter the Bird** — A sensor-based environmental monitoring system that collected and analyzed temperature and humidity data to support the recovery of an injured bird.
