@@ -17,7 +17,7 @@ I love building technology that can make a meaningful difference in people's liv
 
 ## Projects
 
-- **Entry Point** — An award-winning cybersecurity platform built with React and FastAPI to make online-safety resources accessible in 15 languages.
+- **[Entry Point](https://github.com/EmmyAbella444/EntryPoint)** — Social Impact Prize winner at the Vanderbilt Global Good Hackathon 2026. A multilingual cybersecurity platform built with React and FastAPI to make online-safety resources more accessible to immigrant communities.
 - **Peter the Bird** — A sensor-based environmental monitoring system that collected and analyzed temperature and humidity data to support the recovery of an injured bird.
 - **CasHub** — A full-stack community platform where students could document activities, interact with peers, monitor their progress, and export digital portfolios.
 - **Semester Tracker** — A browser-based dashboard for organizing courses, assignments, deadlines, grades, and academic progress. [Live demo](https://semestertracker.netlify.app/)
@@ -25,5 +25,3 @@ I love building technology that can make a meaningful difference in people's liv
 ## Tech
 
 **Python • Java • C • C++ • JavaScript • SQL • HTML/CSS • React • FastAPI • Flask • PySpark • XGBoost • Git**
-
----
