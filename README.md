@@ -7,8 +7,8 @@
   **Computer Science & Applied Mathematics student at Vanderbilt University**  
   Interested in software engineering, machine learning, AI, and cybersecurity.
 
-  [Email](mailto:emmyabellas@gmail.com)
-  [LinkedIn](www.linkedin.com/in/emmy-abella)
+  [Email](mailto:emmyabellas@gmail.com) • [LinkedIn](https://www.linkedin.com/in/emmy-abella/)
+
 </div>
 
 ## About me
