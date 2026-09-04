@@ -8,6 +8,7 @@
   Interested in software engineering, machine learning, AI, and cybersecurity.
 
   [Email](mailto:emmyabellas@gmail.com)
+  [LinkedIn](www.linkedin.com/in/emmy-abella)
 </div>
 
 ## About me
