@@ -19,8 +19,8 @@ I love building technology that can make a meaningful difference in people's liv
 
 - **[Entry Point](https://github.com/EmmyAbella444/EntryPoint)** — Social Impact Prize winner at the Vanderbilt Global Good Hackathon 2026. A multilingual cybersecurity platform built with React and FastAPI to make online-safety resources more accessible to immigrant communities.
 - **[Economic Stress Early Warning System](https://github.com/EmmyAbella444/EconomicStress)** — A machine-learning project that combines U.S. macroeconomic indicators to estimate recession risk over the next six months, using Python, FRED data, scikit-learn, and Streamlit.
-- **[Peter the Bird](https://github.com/EmmyAbella444/PeterTheBird/blob/main/PeterTheBird)** — A sensor-based environmental monitoring system that collected and analyzed temperature and humidity data to support the recovery of an injured bird.
 - **[CasHub](https://github.com/EmmyAbella444/CasHub)** — A full-stack community platform where students could document activities, interact with peers, monitor their progress, and export digital portfolios.
+- **[Peter the Bird](https://github.com/EmmyAbella444/PeterTheBird)** — A sensor-based environmental monitoring system that collected and analyzed temperature and humidity data to support the recovery of an injured bird.
 - **Semester Tracker** — A browser-based dashboard for organizing courses, assignments, deadlines, grades, and academic progress. [Live demo](https://semestertracker.netlify.app/)
 
 ## Tech
