@@ -2,7 +2,7 @@
   <img width="1600" height="400" alt="emmy-github-banner (1)" src="https://github.com/user-attachments/assets/3cc9d8fe-d6f9-43e1-b97a-0e8194281743" />
 
 
-  # Hi, I'm Emmy Abella 👋
+  # Hello, I'm Emmy Abella 👋
 
   **Computer Science & Applied Mathematics student at Vanderbilt University**  
   Interested in software engineering, machine learning, AI, and cybersecurity.
