@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/94566f95-edb6-46c2-bc0b-accc6201053e"
-       alt="Pixel art banner"
-       width="100%" />
+  <img src="./emmy-github-banner.gif"
+     alt="Emmy's pixel-art coding space"
+     width="100%" />
 
   # Hi, I'm Emmy Abella 👋
 
